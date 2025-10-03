@@ -1,0 +1,11 @@
+.header-title {
+    background-image: url("../assets/screenshots/01_grotto.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center 75%;
+    height: 350px;
+}
+
+.logo-header {
+    font-size: 4rem;
+}
